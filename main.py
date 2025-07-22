@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""
-ZCleaner - Smart Duplicate File Finder and Cleaner
-Main application entry point.
-"""
+
 
 import sys
 import os
